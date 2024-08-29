@@ -77,8 +77,14 @@ export const projects = [
     title: "Showreel",
     des: "Creative edits using Blender, ComfyUI, and Premiere Pro, showcasing my expertise in animation and design.",
     img: "/Showreel resize.png",
-    iconLists: ["/512px-Logo_Blender.svg.png", "/adobe-premiere-pro-icon.svg", "/adobe-after-effects.svg", "/Adobe_Photoshop_CC_icon.svg", "/icons8-cinema-4d-480.svg"],
-    link: "/https://drive.google.com/file/d/1Kc4OwhgGCNkjbx2infV0izZrPkfhy8Qe/view?usp=sharing",
+    iconLists: [
+      "/512px-Logo_Blender.svg.png",
+      "/adobe-premiere-pro-icon.svg",
+      "/adobe-after-effects.svg",
+      "/Adobe_Photoshop_CC_icon.svg",
+      "/icons8-cinema-4d-480.svg",
+    ],
+    link: "https://drive.google.com/file/d/1Kc4OwhgGCNkjbx2infV0izZrPkfhy8Qe/view?usp=sharing",
   },
   {
     id: 2,
@@ -86,15 +92,20 @@ export const projects = [
     des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
     img: "/Last of us.png",
     iconLists: ["/adobe-premiere-pro-icon.svg"],
-    link: "/ui.yoom.com",
+    link: "https://ui.yoom.com",
   },
   {
     id: 3,
     title: "Blender Work",
     des: "VFX logo reveal created in Blender, refined with After Effects and Premiere Pro for crisp visuals and cinematic effects.",
     img: "/Final Work Resize.png",
-    iconLists: ["/512px-Logo_Blender.svg.png", "/adobe-after-effects.svg", "/adobe-premiere-pro-icon.svg", "/Adobe_Photoshop_CC_icon.svg",],
-    link: "/https://drive.google.com/file/d/1htu2pADzAkmACmI5NlZYIEqq_b1Xuu9u/view?usp=drive_link",
+    iconLists: [
+      "/512px-Logo_Blender.svg.png",
+      "/adobe-after-effects.svg",
+      "/adobe-premiere-pro-icon.svg",
+      "/Adobe_Photoshop_CC_icon.svg",
+    ],
+    link: "https://drive.google.com/file/d/1htu2pADzAkmACmI5NlZYIEqq_b1Xuu9u/view?usp=drive_link",
   },
   {
     id: 4,
@@ -102,7 +113,7 @@ export const projects = [
     des: "An animated reimagining of the epic Ford vs Ferrari showdown, brought to life with AnimateDiff.",
     img: "/Ford v Ferrari.png",
     iconLists: [],
-    link: "/https://drive.google.com/file/d/1I2qeW4rWW2pYJP1qYM9t2btBaKuARBvR/view?usp=sharing",
+    link: "https://drive.google.com/file/d/1I2qeW4rWW2pYJP1qYM9t2btBaKuARBvR/view?usp=sharing",
   },
 ];
 
